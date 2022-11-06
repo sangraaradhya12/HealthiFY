@@ -1,11 +1,13 @@
 <br/>
-## Submission for Hack CBS 5.0 Hackathon 
+
+##  Submission for Hack CBS 5.0 Hackathon 
+
 <br/>
 
 <u><h1 align = center> `HealthiFY` </h1></u>
-<h3><p align=center>Heart Disease Problems Diagnostic App/p>
+<h3><p align=center>Heart Disease Problems Diagnostic App  /p>
 
-<p align=center>This application is developed for the benefit of user's health. If anyone wants to know about its Heart Health as it predicts the solution very efficiently.</p></h3>
+<p align=center>This application is developed for the benefit of user's health. If anyone wants to know about their "Heart Health" as it predicts the solution very efficiently. </p></h3>
 
 ### Overview
 
@@ -24,7 +26,6 @@
  
  #### IDE:  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>      <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/> 
  
- #### API: Kaggle
 
 ## Installation/Environment Setup:
 #### 1. Clone App
